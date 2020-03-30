@@ -1,7 +1,7 @@
 # React Native Covid-19
 This app was simple Covid-19 data monitoring using React Native with api from [Mathdroid](https://github.com/mathdroid/covid-19-api). Exploring and having fun with the Animated and React-native-gesture-handler.
 
-![alt text](https://github.com/vivevio/reactnative-covid19/master/publish/assets/preview.gif)
+![alt text](https://raw.githubusercontent.com/vivevio/reactnative-covid19/master/publish/assets/preview.gif)
 
 ### APK File
 Download [here](https://drive.google.com/open?id=1TseLiFPW7kXIXnQ0GGG2W0jk3jB8Gcx6)
