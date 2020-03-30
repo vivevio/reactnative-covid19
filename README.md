@@ -4,10 +4,10 @@ This app was simple Covid-19 data monitoring using React Native with api from [M
 ![alt text](publish/preview.gif)
 
 ### APK File
-Download [here](https://drive.google.com/open?id=1TseLiFPW7kXIXnQ0GGG2W0jk3jB8Gcx6)
+Download [here](https://drive.google.com/open?id=1TseLiFPW7kXIXnQ0GGG2W0jk3jB8Gcx6){target="_blank"}
 
 ### Figma Project
-You can check it [here](https://www.figma.com/file/4nGSheRIXNMy2eYHhWkr4j/Covid19-Mobile-App?node-id=172%3A486)
+You can check it [here](https://www.figma.com/file/4nGSheRIXNMy2eYHhWkr4j/Covid19-Mobile-App?node-id=125%3A4){target="_blank"}
 
 
 ### License
